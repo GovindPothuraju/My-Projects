@@ -1,0 +1,190 @@
+#navItem1{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:20px;
+}
+#navItem2{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:20px;
+}
+#navItem3{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:20px;
+}
+#navItem4{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:20px;
+}
+.kfc-logo{
+    width:60px;
+    height:60px;
+}
+.banner-section-bg-container{
+    height:100vh;
+    background-size:cover;
+    background-image:url("https://images1.livehindustan.com/uploadimage/library/2020/08/16/16_9/16_9_1/chicken_wings_recipe_1597580162.jpg");
+}
+.banner-heading{
+    font-family:"Roboto";
+    font-size:80px;
+    color:white;
+    font-weight:bold;
+}
+.banner-caption{
+    font-family:"Roboto";
+    font-size:50px;
+    color:white;
+    font-weight:bold;
+    text-decoration:underline;
+}
+.custom-button{
+    font-family:"Roboto";
+    font-size:20px;
+    border-radius:8px;
+    background-color:#d0b200;
+    color:white;
+    border-width:1px;
+    width:130px;
+    height:45px;
+    margin-right:10px;
+    border-color:white;
+}
+.custom-outline-button{
+    font-family:"Roboto";
+    font-size:20px;
+    border-radius:8px;
+    background-color:transparent;
+    color:white;
+    border-width:1px;
+    width:130px;
+    height:45px;
+    margin-right:10px;
+    border-style:solid;
+    border-color:white;
+}
+.text-center{
+    text-align:center;
+}
+.wcu-section{
+    background-color:#f9fbfe;
+}
+.wcu-section-heading{
+    font-family:"Roboto";
+    font-size:28px;
+    font-weight:700;
+    color:#183b56;
+
+}
+.wcu-section-description{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#5a7184;
+
+}
+.wcu-card{
+    background-color:white;
+    text-align:center;
+    border-style:solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius:16px;
+}
+.wcu-card-image{
+    height:90px;
+    width:90px;
+}
+.wcu-card-title{
+    font-family:"Roboto";
+    font-size:22px;
+    font-weight:500;
+    color:#323f4b;
+
+}
+.wcu-card-description{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#7b8794;
+}
+.offers{
+    color:#323f4b;
+    font-style:italic;
+    font-weight:bold;
+}
+.explore-menu-section{
+    background-color:white;
+}
+.menu-section-heading{
+    font-family:"Roboto";
+    font-weight:700;
+    font-size:28px;
+    color:#183b56;
+}
+.menu-item-image{
+    border-radius:16px;
+    width:290px;
+    height:300px;
+}
+.menu-card-title{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight:500;
+}
+.menu-item-link{
+    color:#d0b200;
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:14px;
+}
+.menu-item-card{
+    border-radius:16px;
+}
+.healthy-food-section {
+    background-color:white;
+}
+.healthy-food-section-heading{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:bold;
+    color:#183b56;
+}
+.healthy-food-section-description{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#5a7184;
+}
+.healthy-food-section-button{
+    color:white;
+    background-color: #d0b200;
+    border-radius:8px;
+    border-style:solid;
+}
+.food-section-image{
+    width:200px;
+    height:200px;
+}
+
+.food-section-image2{
+    width:250px;
+    height:200px;
+}
+.food-section-image3{
+    width:300px;
+    height:300px;
+    text-align:center;
+}
+.follow-us-section{
+    padding:10px;
+    text-align:center;
+}
+.icon1{
+    margin:10px;
+    
+}

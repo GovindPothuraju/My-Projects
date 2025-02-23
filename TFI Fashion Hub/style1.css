@@ -1,0 +1,67 @@
+body {
+  font-family: "poppins",serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(45deg,#fff, #bdeef4);
+  text-align: center;
+}
+.welcome{
+  background: linear-gradient(45deg, #f6e589,#fff);
+  border: 2px solid black;
+  width: 40%;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 30%;
+  border-radius: 14px;
+}
+.welcome h2{
+  font-size: 30px;
+  font-weight: 500;
+}
+.container{
+  background: linear-gradient(145deg, rgb(1, 79, 107),#fff);
+  padding: 20px;
+  width: 90%;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+.logo{
+  background: linear-gradient(45deg, rgb(71, 138, 162),#fff);
+  border-radius: 16px;
+}
+.logo-img{
+  height: 250px;
+  object-fit: cover;
+}
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 30px;
+}
+.product-card {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(45deg, #5cacb8,#fff);
+  width: 350px;
+  padding: 10px;
+  border-radius: 0px 0px 18px 18px ;
+  border: 3px solid black;
+}
+.image-container {
+  width: 190px;
+}
+.image-container img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.product-info h3 {
+  font-size: 16px;
+}
+.product-info p {
+  font-size: 14px;
+  font-weight: 700;
+}
